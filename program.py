@@ -2,7 +2,7 @@ import serial
 import time
 import streamlit as st
 
-ser = serial.Serial('COM4', 9600, timeout=1)
+ser = serial.Serial('COM3', 9600, timeout=1)
 
 time.sleep(2);
 
