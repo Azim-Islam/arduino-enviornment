@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Pollution_Monitor\\Pollution_Monitor.ino",
+    "port": "COM4"
+}
